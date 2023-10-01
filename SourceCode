@@ -95,7 +95,7 @@ I Love Codes
 \subsection{Profile Links}
 \href{https://www.techgig.com/manishsakpal1}{\faGlobe~Manishsakpal1} \\
 \href{https://github.com/Manishsakpal}{\faGithub~Manishsakpal} \\
-\href{https://www.linkedin.com/in/manish-sakpal-b497b2165}{\faLinkedin~Manish Sakpal}
+\href{https://www.linkedin.com/in/manish-sakpal-b497b2165}{\faLinkedin~Manish Sakpal}\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -103,7 +103,7 @@ I Love Codes
 
 \section{Coursework}
 \subsection{Undergraduate \& Diploma}
-Electronics \& Telecommunication \\
+Electronics \& Telecommunication 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -201,7 +201,8 @@ Jun\--2022 & Code Combat 3.0 (.Net)\\
 
 % Add text at the end of the page
 \vfill % Fill the vertical space between content and the end of the page
-\begin{left}
-\textcolor{gray}{\large CV Source Code}
-\end{left}
+
+\textcolor{gray}{\large \href{https://github.com/Manishsakpal/MyCV_SourceCode.git}{\faGithub~CV Source Code} \\
+}
+
 \end{document}
