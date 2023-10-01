@@ -39,7 +39,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{d}
+\documentclass[]{SupportingManishClass}
 \usepackage{fancyhdr}
 \usepackage{xcolor}
 \usepackage{fontawesome}
